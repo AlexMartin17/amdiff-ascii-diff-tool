@@ -1,0 +1,7 @@
+Diff tool written in Python3 using PyQt5
+Examples:
+
+Equal line
+Added line
+Modified line
+Removed line
