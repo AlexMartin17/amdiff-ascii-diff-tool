@@ -126,16 +126,16 @@ class DifferenceUI(MainUI):
         global file1, diff
 
         with open(file1, "r") as tmp_file1:
-            o = tmp_file1.readlines()
-            for x in range(len(o)):
-                self.textEdit.append(o[x])
-            self.textEdit_2.toHtml()
+            for line in tmp_file1:
+                line=line.strip()
+                self.textEdit.append(line)
+            self.textEdit.toHtml()
         tmp_file1.close()
 
         with open(diff, "r") as tmp_diff:
-            d = tmp_diff.readlines()
-            for x in range(len(d)):
-                self.textEdit_2.append(d[x])
+            for line in tmp_diff:
+                line=line.strip()
+                self.textEdit_2.append(line)
             self.textEdit_2.toHtml()
         tmp_diff.close()
 
