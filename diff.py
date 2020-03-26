@@ -80,7 +80,10 @@ class MainUI():
             d = tmp_file2.readlines()
         with open(diff, "w") as diff_file:
             for x in range(len(o)):
-                diff_file.write(self.difflib_parser(o[x],d[x]))
+                try:
+                    diff_file.write(self.difflib_parser(o[x],d[x]))
+                except IndexError:
+                    pass
 
         tmp_file1.close()
         tmp_file2.close()
@@ -124,6 +127,9 @@ class DifferenceUI(MainUI):
 
     def display_diff(self):
         global file1, diff
+        
+        self.textEdit.clear()
+        self.textEdit_2.clear()
 
         with open(file1, "r") as tmp_file1:
             for line in tmp_file1:
