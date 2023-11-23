@@ -5,7 +5,7 @@ ASCII diff tool written in Python 3<br>
 Supporting Python syntax highlighting
 <br>
 <br>
-Download Windows executable at - https://github.com/AlexMartin17/amdiff-ascii-diff-tool/blob/master/bin/win32/amdiff.exe
+Download Windows executable at - <a href="https://github.com/AlexMartin17/amdiff-ascii-diff-tool/blob/master/bin/win32/amdiff.exe">amdiff.exe</a>
 <br>
 Linux and macOS users can run it with:<br>
 `cd bin`<br>
