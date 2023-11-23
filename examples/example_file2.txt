@@ -1,0 +1,6 @@
+Diff tool written in Python3 using Tk
+Examples:
+
+Same line
+Added line
+Modified lInE

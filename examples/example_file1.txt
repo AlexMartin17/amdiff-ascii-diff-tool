@@ -1,0 +1,7 @@
+Diff tool written in Python3
+Examples:
+
+Same line
+
+Modified line
+Removed line

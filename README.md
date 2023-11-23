@@ -1,9 +1,20 @@
 # amdiff
 
-ASCII diff tool written in Python 3 using PyQt<br>
+ASCII diff tool written in Python 3<br>
 
-pip3 install pyqt5<br>
+Supporting Python syntax highlighting
+<br>
+<br>
+Download Windows executable at -
+Download macOS executable at -
+Linux users can run it with ./bin/amdiff
+<br>
+Supports command line syntax ./amdiff &lt;file1&gt; &lt;file2&gt;
+<br>
 
-<img src="https://raw.githubusercontent.com/AlexMartin17/amdiff-ascii-diff-tool/master/img/mainui.JPG">
-<img src="https://raw.githubusercontent.com/AlexMartin17/amdiff-ascii-diff-tool/master/img/files.JPG">
-<img src="https://raw.githubusercontent.com/AlexMartin17/amdiff-ascii-diff-tool/master/img/differenceui.JPG">
+<img src="D:\Alex-Martin\projects\software_engineering\python\amdiff-ascii-diff-tool\img\examples\example_files.JPG">
+<img src="D:\Alex-Martin\projects\software_engineering\python\amdiff-ascii-diff-tool\img\examples\example_files2.png">
+
+<img src="D:\Alex-Martin\projects\software_engineering\python\amdiff-ascii-diff-tool\img\examples\gui1.png">
+<img src="D:\Alex-Martin\projects\software_engineering\python\amdiff-ascii-diff-tool\img\examples\gui2.png">
+<img src="D:\Alex-Martin\projects\software_engineering\python\amdiff-ascii-diff-tool\img\examples\gui3.png">

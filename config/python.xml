@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language id="python" name="Python">
+  <styles>
+    <style name="self" foreground="#BD11B8" />
+    <style name="False" foreground="#FF5733" />
+    <style name="None" foreground="#FF5733" />
+    <style name="True" foreground="#FF5733" />
+    <style name="and" foreground="#FF5733" />
+    <style name="as" foreground="#FF5733" />
+    <style name="assert" foreground="#FF5733" />
+    <style name="async" foreground="#FF5733" />
+    <style name="await" foreground="#FF5733" />
+    <style name="break" foreground="#FF5733" />
+    <style name="class" foreground="#FF5733" />
+    <style name="continue" foreground="#FF5733" />
+    <style name="def " foreground="#FF5733" />
+    <style name="del" foreground="#FF5733" />
+    <style name="elif" foreground="#FF5733" />
+    <style name="else" foreground="#FF5733" />
+    <style name="except" foreground="#FF5733" />
+    <style name="finally" foreground="#FF5733" />
+    <style name="for" foreground="#FF5733" />
+    <style name="from" foreground="#FF5733" />
+    <style name="global" foreground="#FF5733" />
+    <style name="if" foreground="#FF5733" />
+    <style name="import" foreground="#FF5733" />
+    <style name="in" foreground="#FF5733" />
+    <style name="is" foreground="#FF5733" />
+    <style name="lambda" foreground="#FF5733" />
+    <style name="nonlocal" foreground="#FF5733" />
+    <style name="not" foreground="#FF5733" />
+    <style name="or" foreground="#FF5733" />
+    <style name="pass" foreground="#FF5733" />
+    <style name="raise" foreground="#FF5733" />
+    <style name="return" foreground="#FF5733" />
+    <style name="try" foreground="#FF5733" />
+    <style name="while" foreground="#FF5733" />
+    <style name="with" foreground="#FF5733" />
+    <style name="yield" foreground="#FF5733" />
+    <style name="print" foreground="#FF5733" />
+  </styles>
+</language>
