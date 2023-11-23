@@ -1,6 +1,8 @@
 # amdiff
 
-ASCII diff tool written in Python 3<br>
+Single window ASCII diff tool written in Python 3<br>
+
+I've always wanted a single window diff tool but I couldn't find one so I decided to create one myself.
 
 Supporting Python syntax highlighting
 <br>
