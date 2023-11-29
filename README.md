@@ -15,7 +15,7 @@ Linux and macOS users can run it with:<br>
 `./amdiff`
 <br>
 <br>
-Supports command line syntax `./amdiff &lt;file1&gt; &lt;file2&gt;`
+Supports command line syntax `./amdiff <file1> <file2>`
 <br>
 
 <img src="https://raw.githubusercontent.com/AlexMartin17/amdiff-ascii-diff-tool/master/img/examples/example_files.JPG">
